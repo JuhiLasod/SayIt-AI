@@ -1,0 +1,33 @@
+# === Python backend ===
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+.ENV/
+
+# Environment variables
+.env
+
+# === Flutter frontend ===
+# Dart & Flutter build
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# IDE/Editor settings
+.idea/
+.vscode/
+*.iml
+
+# Mac/Windows/Linux generated
+.DS_Store
+Thumbs.db
